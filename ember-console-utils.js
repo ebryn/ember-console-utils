@@ -12,8 +12,12 @@ HTMLElement.prototype.controller = function() {
 };
 
 HTMLElement.prototype.template = function() {
-  var viewObj = this.view();
-  return viewObj.nearestWithProperty('templateName');
+  var viewObj = this.view(),
+      templateName = viewObj.templateName;
+  if (!templateName) {
+    templateName = viewObj.nearestWithProperty('templateName').templateName;
+  }
+  return templateName;
 };
 
 HTMLElement.prototype.model = function() {
