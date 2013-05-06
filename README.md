@@ -9,3 +9,5 @@ When you include ember-console-utils in your app (which should probably only be 
 # Have more ideas?
 
 Get in touch! :)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ebryn/ember-console-utils/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
