@@ -1,0 +1,23 @@
+{
+  "name": "ember-console-utils",
+  "main": "ember-console-utils.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ebryn/ember-console-utils",
+  "authors": [
+    "Erik Bryn <erik.bryn@gmail.com>"
+  ],
+  "description": "Some super handy utilities for quickly getting the view, controller, or model for an inspected element in modern browsers.",
+  "keywords": [
+    "ember",
+    "console",
+    "debugging"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
