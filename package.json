@@ -1,0 +1,24 @@
+{
+  "name": "ember-console-utils",
+  "version": "0.0.0",
+  "description": "Some super handy utilities for quickly getting the view, controller, or model for an inspected element in modern browsers.",
+  "main": "ember-console-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebryn/ember-console-utils.git"
+  },
+  "keywords": [
+    "ember",
+    "console",
+    "debugging"
+  ],
+  "author": "Erik Bryn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebryn/ember-console-utils/issues"
+  },
+  "homepage": "https://github.com/ebryn/ember-console-utils"
+}
